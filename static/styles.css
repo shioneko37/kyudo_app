@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+button {
+    font-size: 2rem;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.hit {
+    background-color: #4CAF50; /* 緑 */
+    color: white;
+}
+
+.miss {
+    background-color: #F44336; /* 赤 */
+    color: white;
+}
